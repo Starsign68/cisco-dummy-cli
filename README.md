@@ -8,11 +8,11 @@ Interactive dummy JS cisco-like terminal with hints.
 index.html
 ```
 
-[Live demo preview](http://htmlpreview.github.io/?https://raw.githubusercontent.com/m1k1o/cisco-dummy-cli/master/index.html)
+[Live demo preview](https://starsign68.github.io/cisco-dummy-cli/index.html)
 
 ## Router
 ```
 index.html#router
 ```
 
-[Live demo preview](http://htmlpreview.github.io/?https://raw.githubusercontent.com/m1k1o/cisco-dummy-cli/master/index.html#router)
+[Live demo preview](https://starsign68.github.io/cisco-dummy-cli/index.html#router)
